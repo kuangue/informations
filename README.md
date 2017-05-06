@@ -1,4 +1,5 @@
 Informations
 ============
 
-+ parkings.md : limited fee @ yokohama
++ parkings.md : Parkings with limited fee @ yokohama
++ highway.md : Low cost routes' investigations to Saitama-ken
