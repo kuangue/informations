@@ -30,3 +30,4 @@ yokohama
    * 1000円
 1. [空車情報](http://www.pg-system.jp/kannai/park_list.html)
 1. [伊勢佐木長者町地下駐車場](https://www.google.co.jp/maps/place/%E4%BC%8A%E5%8B%A2%E4%BD%90%E6%9C%A8%E9%95%B7%E8%80%85%E7%94%BA%E5%9C%B0%E4%B8%8B%E9%A7%90%E8%BB%8A%E5%A0%B4/@35.4405216,139.6298134,17z/data=!4m8!1m2!2m1!1z5LyK5Yui5L2Q5pyo6ZW36ICF55S65Zyw5LiL6aeQ6LuK5aC0!3m4!1s0x60185cf2efd19fe9:0xda50176e19b7e877!8m2!3d35.4407248!4d139.6317901)
+1. [細かい駐車場空き情報](http://www.ipos-map.jp/InfoSelect.aspx?ido=N35.26.12.870&keido=E139.38.48.450&prf=14&shiku=&genre=001)
